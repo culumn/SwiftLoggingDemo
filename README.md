@@ -9,3 +9,9 @@ This app logs in Xcode console, file, Mac application([SwiftyBeaver](https://swi
 - Xcode 9.0
 - iOS 11
 - [Carthage](https://github.com/Carthage/Carthage)
+
+## Install libraries
+```bash
+$ brew install carthage
+$ carthage update --platform iOS
+```
