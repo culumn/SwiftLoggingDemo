@@ -1,4 +1,4 @@
-# SwiftLoggerDemo
+# SwiftLoggingDemo
 This is just logger in Swift(iOS).
 
 ## Overview
